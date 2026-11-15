@@ -41,4 +41,4 @@ print(f"The Avatar masters {len(elements)} elements!")
 
 Learn more: [Avatar Wiki](https://avatar.fandom.com/wiki/Avatar:_The_Last_Airbender)
 
-![GitHub Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Movie clapper](https://github.githubassets.com/images/icons/emoji/unicode/1f3ac.png)
